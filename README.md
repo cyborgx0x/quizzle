@@ -1,4 +1,3 @@
-# A Quiz Desktop App 
+# Quizzle
 
-This App written in python, tkinter
-The next version will be written in C# to reduce the work for developer
+Generate the test that suitable for your progression
